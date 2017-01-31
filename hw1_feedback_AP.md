@@ -1,0 +1,3 @@
+The work you did is right on point, but I believe you missed the starter notebook that was linked in the project 1 description (every hw will have one of these starter notebooks fyi). It had more specific questions to help guide your thought process on how to begin any data project. Such as what you'd do during an exploratory, distribution of datas, skewness, etc. <br>
+You've covered the vast majority of the first hw, there are just a few more things that will help you round out the initial approach to a data analysis.<br>
+Great start so far! The next hw will test your coding skills a little bit. Don't forget to use the starter notebook!
