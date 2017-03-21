@@ -1,0 +1,4 @@
+Q1: You can create crosstab to easily see the counts for two variables by using: "pd.crosstab(df['admit'], df['prestige'], rownames=['admit'])". <br>
+Q3.1: When calculating odds ratios of an event, it should simply be the (#of successes/# of failures). In our instance, given a prestige of 1, 33 people got accepted, and 28 were not. Therefore the odds are 33/28 = 1.17. You can apply this same method to all of the other questions that ask you to hand calculate odds. <br>
+Q3.7: The Odds ratio you should get is 0.41. Meaning,For students who attended a 4th tier school the odds of being admitted into gradauate school are 0.41 times the odds of students who did not attend a 4th teir school. <br>
+Q4.5: Students who attended a teir 2 undergraduate school had 0.50 the odds of being admitted to graduate school compared to students who attend a teir 1 undergraduate school. <br>
